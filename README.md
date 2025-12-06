@@ -18,8 +18,8 @@
 
 The TITAN model uses a multi-input, multi-head architecture to process diverse data streams and produce specialized forecasts.
 
-![TITAN Architecture Diagram](https://i.imgur.com/your-diagram-image-url.png) 
-*(**Note:** You will need to upload your architecture diagram to a service like Imgur and paste the direct link here.)*
+![TITAN Architecture Diagram](https://github.com/Syamchand123/Typhoon-prediction/blob/3037a303874e56910a76d18672a937a84346e711/assets/architecture.jpg) 
+
 
 
 ## Technical Deep Dive: The TITAN Framework
